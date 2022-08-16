@@ -1,6 +1,6 @@
 # Getting Started with Pictures App.
 
-Photos is an application to search and view amazing photos, pictures use the flickr api to search images. 
+Pictures is an application to search and view amazing photos, pictures use the flickr api to search images. 
 
 You will have an entry to search for more specific tags or text that match the images.
 
