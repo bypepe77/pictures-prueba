@@ -1,5 +1,10 @@
 # Getting Started with Pictures App.
 
+Photos is an application to search and view amazing photos, pictures use the flickr api to search images. 
+
+You will have an entry to search for more specific tags or text that match the images.
+
+
 ## 1. npm install. 
 This is important to install all the dependencies that the application needs to work
 
